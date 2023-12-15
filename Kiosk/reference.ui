@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>dialog_ref</class>
+ <widget class="QDialog" name="dialog_ref">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>507</width>
+    <height>115</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Reference #</string>
+  </property>
+  <property name="windowIcon">
+   <iconset>
+    <normaloff>../FinalsProject/app_logo.png</normaloff>../FinalsProject/app_logo.png</iconset>
+  </property>
+  <layout class="QHBoxLayout" name="horizontalLayout">
+   <item>
+    <widget class="QLabel" name="label">
+     <property name="styleSheet">
+      <string notr="true">font: 40pt &quot;Times New Roman&quot;;</string>
+     </property>
+     <property name="text">
+      <string>Reference #:</string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QLabel" name="lbl_ref">
+     <property name="styleSheet">
+      <string notr="true">font: 40pt &quot;Times New Roman&quot;;</string>
+     </property>
+     <property name="text">
+      <string>asdasd</string>
+     </property>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
